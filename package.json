@@ -1,0 +1,7 @@
+{
+  "name": "terraform-aws-vpc_main",
+  "private": true,
+  "release": {
+    "branches": ["main"]
+  }
+}
